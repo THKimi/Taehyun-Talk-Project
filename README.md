@@ -1,3 +1,3 @@
-# Kokoa Clone First Project
+# Taehyun Talk First Project
 
 HTML & CSS are so much fun!
